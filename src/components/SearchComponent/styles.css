@@ -1,0 +1,16 @@
+.search-base{
+    background-color: #F9FBFF;
+    width: 216px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.input {
+    background-color: #F9FBFF;
+    border: 0 ;
+   height: 38px;
+}
+textarea:focus, input:focus{
+    outline: none;
+}
+
